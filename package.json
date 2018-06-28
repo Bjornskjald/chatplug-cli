@@ -1,0 +1,28 @@
+{
+  "name": "chatplug-cli",
+  "version": "0.0.1",
+  "description": "CLI client for ChatPlug based on gRPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bjornskjald/chatplug-cli.git"
+  },
+  "keywords": [
+    "chatplug",
+    "grpc",
+    "cli",
+    "client"
+  ],
+  "author": "Bjornskjald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bjornskjald/chatplug-cli/issues"
+  },
+  "homepage": "https://github.com/Bjornskjald/chatplug-cli#readme",
+  "dependencies": {
+    "grpc": "^1.12.4"
+  }
+}
